@@ -1,7 +1,12 @@
 ### Hi there! I'm Swey 👋 <br/>
 
 - Hİ
--pushpin Some Personal Information ↓
+
+- **Some Personal Information** ↓
+
+- **My Name Is : Buğra**
+
+
 
 
 <!--
