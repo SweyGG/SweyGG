@@ -1,4 +1,7 @@
-### Hi there! I'm Swey 👋
+### Hi there! I'm Swey 👋 <br/>
+
+- Hİ
+-pushpin Some Personal Information ↓
 
 
 <!--
