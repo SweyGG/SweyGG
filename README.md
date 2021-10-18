@@ -1,10 +1,16 @@
 ### Hi there! I'm Swey 👋 <br/>
 
-- Hİ
+- *Hİ*
 
 - **Some Personal Information** ↓
 
 - **My Name Is : Buğra**
+
+- **My Age : 16**
+
+- **Where I live : Turkey/Ordu/Fatsa**
+
+- **Discord Nickname : Swey#0802**
 
 
 
