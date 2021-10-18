@@ -1,4 +1,4 @@
-<img srcc="https://cdn.discordapp.com/attachments/631918722059075604/832919728426450964/09244c7f7dd4d17b0484370f32db6641.gif" aligh="right" width="400" height="250">
+
 
 ### Hi there! I'm Swey 👋 <br/>
 
