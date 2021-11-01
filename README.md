@@ -10,7 +10,7 @@
 
 - **My Age : 17**
 
-- **Where I live : Turkey/Ordu/Fatsa**
+- **Where I live : Turkey/Ordu/**
 
 - **Discord Nickname : Swey#0802**
 
